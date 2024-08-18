@@ -359,7 +359,7 @@ main {
 
 .watch-video-link:hover,
 .watch-video-link:focus {
-  background: linear-gradient(#06071b 0 0) content-box,
+  background: linear-gradient(99deg, #06071b 0%, #06071b 100%) content-box,
     linear-gradient(99deg, #00c5eb 0%, #b544fe 100%) border-box;
   border: 2px solid transparent;
   border-radius: 50%;
@@ -615,7 +615,7 @@ main {
 
 .footer-link-item:hover,
 .footer-link-item:focus {
-  background: linear-gradient(#06071b 0 0) content-box,
+  background: linear-gradient(99deg, #06071b 0%, #06071b 100%) content-box,
     linear-gradient(99deg, #00c5eb 0%, #b544fe 100%) border-box;
   border: 2px solid transparent;
   border-radius: 50%;
