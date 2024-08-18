@@ -293,7 +293,7 @@ main {
   background-image: url(../images/video-1.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
 }
 
 .watch-video-container {
@@ -372,7 +372,7 @@ main {
 
   background-repeat: no-repeat, no-repeat;
   background-size: cover, cover;
-  background-position: top right, center;
+  background-position: top right, center center;
 
   padding-top: 80px;
   padding-bottom: 0;
@@ -485,7 +485,7 @@ main {
 
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
 
   padding-top: 116px;
   padding-bottom: 80px;
@@ -547,7 +547,7 @@ main {
   background-image: url(../images/foot.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
 
   color: #ffffff;
 }
