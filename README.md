@@ -55,6 +55,8 @@ Real user feedback integration with featured testimonial from Jon Doe (Company I
 
 ## 🌐 Live Demo
 
+**Live Application:**
+
 <a href="https://ira-panasiuk-2024.github.io/Mobile-App-Prototype/" target="_blank" rel="noopener noreferrer">View Mobile App Prototype</a>
 
 ---
@@ -114,6 +116,7 @@ Real user feedback integration with featured testimonial from Jon Doe (Company I
 
 ## 🌐 Демо
 
+**Живий застосунок:**
 <a href="https://ira-panasiuk-2024.github.io/Mobile-App-Prototype/" target="_blank" rel="noopener noreferrer">Переглянути прототип мобільного додатку</a>
 
 ---
