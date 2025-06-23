@@ -29,7 +29,7 @@
 
 ### Technical Implementation
 
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5, CSS3
 - **Design Philosophy**: Mobile-first thinking presented in desktop format
 - **UI/UX Focus**: Clean, modern design with emphasis on user experience
 - **Static Prototype**: Non-responsive implementation focusing on content presentation
@@ -90,7 +90,7 @@ Real user feedback integration with featured testimonial from Jon Doe (Company I
 
 ### Технічна реалізація
 
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5, CSS3
 - **Філософія дизайну**: Mobile-first мислення представлене в десктопному форматі
 - **UI/UX фокус**: Чистий, сучасний дизайн з акцентом на користувацький досвід
 - **Статичний прототип**: Не адаптивна реалізація з фокусом на презентацію контенту
@@ -156,8 +156,10 @@ cd Mobile-App-Prototype
 ## 📧 Contact | Контакти
 
 **Developer | Розробник**: Ira Panasiuk | Ірина Панасюк
+
 **GitHub**:
 <a href="https://github.com/Ira-Panasiuk-2024" target="_blank" rel="noopener noreferrer">Ira-Panasiuk-2024</a>
+
 **Project Repository**:
 <a href="https://github.com/Ira-Panasiuk-2024/Mobile-App-Prototype" target="_blank" rel="noopener noreferrer">Mobile-App-Prototype</a>
 
